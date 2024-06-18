@@ -1,0 +1,14 @@
+{
+  "name": "vitest-vscode-count-issue",
+  "version": "1.0.0",
+  "description": "Demonstration of the issue with total test count",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Jos de Jong",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "1.6.0"
+  }
+}
